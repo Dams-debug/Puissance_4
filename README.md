@@ -1,4 +1,6 @@
 # Puissance 4
 
-## Présentation et règles du jeu
+![Puissance_4]()
+
+## Règles du jeu
 -----------------
