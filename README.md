@@ -1,4 +1,4 @@
-# Puissance 4
+<h1 align="center">Puissance 4</h1>
 
 <p align="center">
     <img id="picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Puissance4_01.svg/langfr-440px-Puissance4_01.svg.png" alt="Image Puissance 4">
