@@ -36,7 +36,9 @@
 
 ### 2 | Savoir si un emplacement est libre ou non.
 
+<p align="justify">
 Cette partie va permettre au programme de savoir à quelle position le jeton doit se retrouver lorsque le joueur décide de le lâcher dans une colonne (la gravité ;-)). En effet, si un ou plusieurs jetons sont déjà présents dans la colonne choisie par le joueur, ce dernier se retrouvera au-dessus des autres.
+</p>
 
 * Créer une seconde liste qui permet, par itération, de savoir combien d'emplacements sont vides dans chaque colonne. Chaque occurrence dans les sous-listes de la seconde liste, représentera un emplacement vide dans le tableau de jeu.
 * Si dans une colonne, le nombre d'occurences est inférieur à 6, un ou plusieurs jetons sont déjà présents dans la colonne choisie par le joueur.
