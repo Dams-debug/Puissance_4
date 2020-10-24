@@ -1,2 +1,4 @@
-# Puissance_4
-Programme permettant de jouer au jeu du Puissance 4.
+# Puissance 4
+
+## Présentation et règles du jeu
+-----------------
